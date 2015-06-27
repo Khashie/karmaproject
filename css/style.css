@@ -440,12 +440,15 @@ div{
 .logonav{
   background-color: #FFFFFF;
   height:71px;
+    min-width: 957px;
+
 }
 .topnav{
 width:60%;
 height:70px;
 margin-left: auto;
 margin-right:auto;
+
 }
 .topnav>img{
   height: 70px;
